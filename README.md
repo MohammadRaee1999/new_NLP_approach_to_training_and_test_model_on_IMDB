@@ -1,1 +1,1 @@
-# training-and-test-model-on-IMDB-whit-word2vec-BOW-and-combination-of-them
+# training_and_test_model_on_IMDB_whit_word2vec_BOW_and_combination_of_them
